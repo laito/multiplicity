@@ -1,0 +1,11 @@
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\obj\x86\Debug\Multiplicity.Form1.resources
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\obj\x86\Debug\Multiplicity.Properties.Resources.resources
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\obj\x86\Debug\Multiplicity.csproj.GenerateResource.Cache
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\bin\Debug\Multiplicity.exe
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\bin\Debug\Multiplicity.pdb
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\bin\Debug\ZedGraph.dll
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\bin\Debug\Emgu.CV.xml
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\bin\Debug\Emgu.Util.xml
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\obj\x86\Debug\Multiplicity.exe
+c:\Users\root\Documents\Visual Studio 2010\Projects\Multiplicity\Multiplicity\obj\x86\Debug\Multiplicity.pdb
+C:\Users\root\documents\visual studio 2010\Projects\Multiplicity\Multiplicity\obj\x86\Debug\Multiplicity.csprojResolveAssemblyReference.cache
