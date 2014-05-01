@@ -1,0 +1,1 @@
+Multiplicity photography autogen tool - Using EmguCV (C# wrapper for OpenCV)
